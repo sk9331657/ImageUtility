@@ -123,7 +123,7 @@
                                     <td><%=i%></td>
                                     <td><img
                                         src="ImageRetreiver?imageId=<%=image.getImageId()%>"
-                                        height="99" width="99"></img></td>
+                                        height="100" width="100"></img></td>
                                     <td><%=image.getImageName()%></td>
                                     <td><%=image.getImageSize()%></td>
                                     <!-- Modal starts here -->
